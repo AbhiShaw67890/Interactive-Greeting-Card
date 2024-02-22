@@ -12,6 +12,10 @@ Originally conceptualized as a birthday greeting tool, this project has evolved 
 - **Responsive Design**: The layout and interactions are fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 - **Custom Font and Images**: Incorporates a custom font and themed images to enhance the visual appeal.
 
+## Screenshots
+![Screenshot 1](res/screenshot/01.png "Screenshot 1")
+![Screenshot 2](res/screenshot/02.png "Screenshot 2")
+
 
 ## Inspiration
 Inspired by an Instagram reel showcasing an interactive web project with draggable and rotatable elements, this project takes that initial concept further. Although the original creator's details are unknown, their innovative idea laid the groundwork for this enhanced version. Key improvements include Touch Screen Support, optimizing the experience for modern devices and expanding its use for various occasions.
